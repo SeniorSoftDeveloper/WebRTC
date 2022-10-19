@@ -1,0 +1,5 @@
+IP Address: 66.42.124.166
+Username: root
+Password:
+B?8m!%1sM#hQUe@w
+You will need to use SFTP to upload to the server as I do not have FTP enabled.
